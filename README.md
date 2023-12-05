@@ -1,6 +1,6 @@
 # supercharged-local-directory-file-browser
 
-Install with your browser’s userscript manager at [https://openuserjs.org/users/gaspar_schot/scripts](https://openuserjs.org/scripts/gaspar_schot/Supercharged_Local_Directory_File_Browser)
+Install with your browser’s userscript manager at [https://openuserjs.org/users/gaspar_schot/scripts/Supercharged_Local_Directory_File_Browser](https://openuserjs.org/scripts/gaspar_schot/Supercharged_Local_Directory_File_Browser)
 
 ## **DESCRIPTION**
 This is a browser userscript that transforms the default local directory index page (and many server-generated index pages) into a full-featured file browser, with a resizable sidebar and preview pane. (See screenshots below.)
