@@ -38,7 +38,7 @@ If you like this script, please consider [*buying me a coffee*](https://www.buym
 - Open fonts and view glyph repertoire.
   - Save glyphs as SVG.
 - Grid views for images and/or fonts with keyboard navigation.
-- User settings (see $settings in code; some settings can be changed via the main menu in the UI and will be remembered in URL query):
+- User settings (in main menu):
   - Light or Dark theme.
   - Bookmarks for local or remote directories.
   - Default image grid size.
