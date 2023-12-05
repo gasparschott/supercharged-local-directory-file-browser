@@ -2,39 +2,8 @@
 
 Available at [https://openuserjs.org/users/gaspar_schot/scripts](https://openuserjs.org/scripts/gaspar_schot/Supercharged_Local_Directory_File_Browser)
 
-This userscript works on **local directories** as well as many remote server-generated index pages (“**open directories**”). 
-- By default, userscripts do not run on local file:/// urls, so for this script to work on local directories you will need to enable it in your browser's extension settings (e.g.: For Tampermonkey in Chrome, open the Chrome extensions page, click the details button for Tampermonkey and check 'Allow access to file URLs'). 
-- To make the script work on a remote **open directory**, you must add its URL to the list of allowed sites in the settings for this userscript, as provided by your userscript manager.
-- Because server configurations vary, the script may not work perfectly (or at all) on some open directories. You may also need to allow—or block—javascript on some ODs, and/or allow cookies. Please let me know if you encounter any problems.
-- This script was developed in the latest version of Vivaldi, running on the latest MacOS. It has been *minimally* tested in other Chrome-based browsers, Safari, and Firefox, and has been **not** been tested in any other browsers or OSes. No effort has been made to ensure compatibility with older browsers. Please report any issues.
-
-See screenshots and description below. For more detailed usage information, see the “Help” item in the main menu of the script UI.
-
-&rarr; If you like this script, please consider **leaving a RATING** or [*buying me a coffee*](https://www.buymeacoffee.com/fiLtliTFxQ) or making a [*donation*](https://paypal.me/mschrauzer), or sending me a [*comment*](mailto:mshroud@protonmail.com) to let me know what you think. Thank you!
-
-----
-
-### Screenshots
-
-**BEFORE**
-![Before](https://greasyfork.s3.us-east-2.amazonaws.com/x9owm4idamdrkaj2oz0ampq1cfzy "Before")
-
-**AFTER** _with dark theme and image grid_
-![After with dark theme and image grid](https://greasyfork.s3.us-east-2.amazonaws.com/yvb8ja33sc5e4ixnv4556esp5gsh "After with dark theme and image grid")
-
-**MEDIA PLAYBACK** _with dark theme and cover art_
-![Audio player with dark theme and cover art](https://greasyfork.s3.us-east-2.amazonaws.com/2kllxq95zh39nzs9f4mbcs67slbs "Audio player with dark theme and cover art")
-
-**MARKDOWN** _editing and preview, with subdirectory browsing_
-![Markdown editing and preview](https://greasyfork.s3.us-east-2.amazonaws.com/rii4vqph16a2p1aki6lwo1gnv5nn "Markdown editing and preview, with subdirectory browsing")
-
-**FONT GRID**
-![Light theme with image and font grid](https://greasyfork.s3.us-east-2.amazonaws.com/vm44oyuiqstq52pkdxuez649ubcy "Light theme with font and image grid")
-
-----
-
-### **DESCRIPTION**
-This script transforms the default local directory page (and many server-generated index pages) into a full-featured file browser, with a resizable sidebar and preview pane. (See screenshots below.)
+## **DESCRIPTION**
+This is a browser userscript that transforms the default local directory page (and many server-generated index pages) into a full-featured file browser, with a resizable sidebar and preview pane. (See screenshots below.)
 
 If you like this script, please consider [*buying me a coffee*](https://www.buymeacoffee.com/fiLtliTFxQ) or making a [donation](https://paypal.me/mschrauzer) to encourage development. Thanks!
 
@@ -86,6 +55,22 @@ If you like this script, please consider [*buying me a coffee*](https://www.buym
   - Autoload cover art in directories with audio files.
   - Text editing default view: split, source, or preview.
   - Text editing sync scroll: on or off.
+ 
+----
+
+## Notes
+
+This script works on **local directories** as well as many remote server-generated index pages (“**open directories**”). 
+- By default, userscripts do not run on local file:/// urls, so for this script to work on local directories you will need to enable it in your browser's extension settings (e.g.: For Tampermonkey in Chrome, open the Chrome extensions page, click the details button for Tampermonkey and check 'Allow access to file URLs'). 
+- To make the script work on a remote **open directory**, you must add its URL to the list of allowed sites in the settings for this userscript, as provided by your userscript manager.
+- Because server configurations vary, the script may not work perfectly (or at all) on some open directories. You may also need to allow—or block—javascript on some ODs, and/or allow cookies. Please let me know if you encounter any problems.
+- This script was developed in the latest version of Vivaldi, running on the latest MacOS. It has been *minimally* tested in other Chrome-based browsers, Safari, and Firefox, and has been **not** been tested in any other browsers or OSes. No effort has been made to ensure compatibility with older browsers. Please report any issues.
+
+See screenshots and description below. For more detailed usage information, see the “Help” item in the main menu of the script UI.
+
+&rarr; If you like this script, please consider **leaving a RATING** or [*buying me a coffee*](https://www.buymeacoffee.com/fiLtliTFxQ) or making a [*donation*](https://paypal.me/mschrauzer), or sending me a [*comment*](mailto:mshroud@protonmail.com) to let me know what you think. Thank you!
+
+
 
 ----
 
@@ -110,4 +95,21 @@ If you like this script, please consider [*buying me a coffee*](https://www.buym
 
 --------
 
+### Screenshots
 
+**BEFORE**
+![Before](https://greasyfork.s3.us-east-2.amazonaws.com/x9owm4idamdrkaj2oz0ampq1cfzy "Before")
+
+**AFTER** _with dark theme and image grid_
+![After with dark theme and image grid](https://greasyfork.s3.us-east-2.amazonaws.com/yvb8ja33sc5e4ixnv4556esp5gsh "After with dark theme and image grid")
+
+**MEDIA PLAYBACK** _with dark theme and cover art_
+![Audio player with dark theme and cover art](https://greasyfork.s3.us-east-2.amazonaws.com/2kllxq95zh39nzs9f4mbcs67slbs "Audio player with dark theme and cover art")
+
+**MARKDOWN** _editing and preview, with subdirectory browsing_
+![Markdown editing and preview](https://greasyfork.s3.us-east-2.amazonaws.com/rii4vqph16a2p1aki6lwo1gnv5nn "Markdown editing and preview, with subdirectory browsing")
+
+**FONT GRID**
+![Light theme with image and font grid](https://greasyfork.s3.us-east-2.amazonaws.com/vm44oyuiqstq52pkdxuez649ubcy "Light theme with font and image grid")
+
+----
