@@ -3,7 +3,7 @@
 Available at [https://openuserjs.org/users/gaspar_schot/scripts](https://openuserjs.org/scripts/gaspar_schot/Supercharged_Local_Directory_File_Browser)
 
 ## **DESCRIPTION**
-This is a browser userscript that transforms the default local directory page (and many server-generated index pages) into a full-featured file browser, with a resizable sidebar and preview pane. (See screenshots below.)
+This is a browser userscript that transforms the default local directory index page (and many server-generated index pages) into a full-featured file browser, with a resizable sidebar and preview pane. (See screenshots below.)
 
 If you like this script, please consider [*buying me a coffee*](https://www.buymeacoffee.com/fiLtliTFxQ) or making a [donation](https://paypal.me/mschrauzer) to encourage development. Thanks!
 
