@@ -1,6 +1,8 @@
 # supercharged-local-directory-file-browser
 
-This script works on **local directories** as well as many remote server-generated index pages (“**open directories**”). 
+Available at [https://openuserjs.org/users/gaspar_schot/scripts](https://openuserjs.org/scripts/gaspar_schot/Supercharged_Local_Directory_File_Browser)
+
+This userscript works on **local directories** as well as many remote server-generated index pages (“**open directories**”). 
 - By default, userscripts do not run on local file:/// urls, so for this script to work on local directories you will need to enable it in your browser's extension settings (e.g.: For Tampermonkey in Chrome, open the Chrome extensions page, click the details button for Tampermonkey and check 'Allow access to file URLs'). 
 - To make the script work on a remote **open directory**, you must add its URL to the list of allowed sites in the settings for this userscript, as provided by your userscript manager.
 - Because server configurations vary, the script may not work perfectly (or at all) on some open directories. You may also need to allow—or block—javascript on some ODs, and/or allow cookies. Please let me know if you encounter any problems.
