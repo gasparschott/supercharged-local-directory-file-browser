@@ -40,21 +40,20 @@ If you like this script, please consider [*buying me a coffee*](https://www.buym
 - Grid views for images and/or fonts with keyboard navigation.
 - User settings (in main menu):
   - Light or Dark theme.
-  - Bookmarks for local or remote directories.
-  - Default image grid size.
   - Default UI font size and font-family.
   - Default UI font and font-size.
   - Default file sorting.
   - Sort with directories on top.
-  - Treat apps as directories (MacOS and *nix only)
+  - Treat apps as directories (in OSes that support viewing app package contents)
   - Show or hide invisible files.
-  - Show or hide ignored files in the ignored files list (see $row_settings in code below $settings).
+  - Show or hide ignored files in the ignored files list.
   - Show or hide file details.
   - Use custom file icons or browser defaults.
   - Autoload index.ext files.
   - Autoload cover art in directories with audio files.
   - Text editing default view: split, source, or preview.
   - Text editing sync scroll: on or off.
+- More...
  
 ----
 
